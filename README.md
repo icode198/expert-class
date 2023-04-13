@@ -62,7 +62,7 @@
 
 
 ## About
-Expert Class API is the backend for a ***fully responsive*** web app that I built with a team of 4 members. The front end of the app is handled separately by another app. The [repo for the front-end is here](https://github.com/StarSheriff2/expert-class-frontend). The API documentation of this project was generated with the <strong>'rswag'</strong> gem. We built request and integration tests, achieving a 95% coverage. We use cross-site session cookies to handle user authentication. We use PostgreSQL as the database and Cloudinary to store all images in the cloud.
+Expert Class API is the backend for a ***fully responsive*** web app that I built with a team of 4 members. The front end of the app is handled separately by another app. The [repo for the front-end is here](https://github.com/icode198/expert-class-frontend). The API documentation of this project was generated with the <strong>'rswag'</strong> gem. We built request and integration tests, achieving a 95% coverage. We use cross-site session cookies to handle user authentication. We use PostgreSQL as the database and Cloudinary to store all images in the cloud.
 
 ### API Documentation
 We used Rswag to generate all the API documentation directly from our tests. You will find all the endpoints necessary to use our API here:
