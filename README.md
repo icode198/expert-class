@@ -79,19 +79,11 @@ We used Rswag to generate all the API documentation directly from our tests. You
 ### Front-end React app
 - The front-end associated with this app is [here](https://expert-class-frontend-v2.netlify.app).
 
-- The Github repo of the front-end is [here](https://github.com/StarSheriff2/expert-class-frontend).
+- The Github repo of the front-end is [here](https://github.com/icode198/expert-class-frontend).
 
 ### Live Demo
 
 Deployed to **Railway**: [Live Demo](https://expert-class-production.up.railway.app/api/v1/healthcheck)
-
-### Video Presentation
-
-Watch a quick demo and walk-through of this project:
-<a href="https://www.loom.com/share/bf3cfe3590a9404da7badb3012248a57" target="_blank" rel="noopener noreferrer">
-  <p>Expert Class - 13 January 2022 - Watch Video</p>
-  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bf3cfe3590a9404da7badb3012248a57-with-play.gif">
-</a>
 
 ### Built With
 - Ruby 3.0.2p107 (2021-07-07 revision 0db68f0233) \[arm64-darwin20\]
@@ -106,7 +98,7 @@ Watch a quick demo and walk-through of this project:
 
 ### Project Management
 
-We used an agile methodology to manage all the tasks in this project. This project's tasks are described in [this kanban board](https://github.com/StarSheriff2/expert-class/projects/1).
+We used an agile methodology to manage all the tasks in this project. This project's tasks are described in [this kanban board](https://github.com/icode198/expert-class/projects/1).
 
 We used GitHub's built-in Kanban board:
 ![kanban](https://user-images.githubusercontent.com/61250665/137405588-7fc8d606-5b01-43ca-beae-5c29ae231d2e.png)
@@ -119,7 +111,7 @@ To get a local copy up and running, follow these simple example steps.
 1. Open your terminal or command prompt.
 2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal:
 ```
-  git clone git@github.com:StarSheriff2/expert-class.git
+  git clone git@github.com:icode198/expert-class.git
 ```
   <br>
 
@@ -236,34 +228,11 @@ To run ***Rubocop***, go to the root directory of your repository and copy/paste
  rubocop .
 ```
 
-## Authors
-👤 **Arturo Alvarez**
-- Github: [@StarSheriff2](https://github.com/StarSheriff2)
-- Twitter: [@ArturoAlvarezV](https://twitter.com/ArturoAlvarezV)
-- Linkedin: [Arturo Alvarez](https://www.linkedin.com/in/arturoalvarezv/)
-
-👤 **Breno Xavier**
-
-- GitHub: [@brenoxav](https://github.com/brenoxav)
-- LinkedIn: [Breno Xavier](https://linkedin.com/in/brenoxav)
-
-👤 **Francis Uloko**
-
-- GitHub: [@francisuloko](https://github.com/francisuloko)
-- Twitter: [@francisuloko](https://twitter.com/francisuloko)
-- LinkedIn: [Francis Uloko](https://linkedin.com/in/francisuloko)
-
-👤 **Mih Julius**
-
-- GitHub: [@Mihndim2020](https://github.com/Mihndim2020)
-- Twitter: [@mihndim](https://github.com/mih-julius)
-- LinkedIn: [Mih Julius](https://www.linkedin.com/mih-julius)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/StarSheriff2/expert-class/issues).
+Feel free to check the [issues page](https://github.com/icode198/expert-class/issues).
 
 ## Show your support
 
@@ -271,4 +240,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/StarSheriff2/expert-class/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/icode198/expert-class/blob/master/LICENSE) licensed.
